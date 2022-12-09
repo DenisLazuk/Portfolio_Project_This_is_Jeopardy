@@ -6,7 +6,7 @@
 - [x] Filter the dataset for topics of interest;
 - [x] Compute the average difficulty of those questions;
 - [x] Compare the usage of certain words in different decades;
-- [] Build a system to quiz yourself
+- [ ] Build a system to quiz yourself
 
 
 ### Technologies used:
