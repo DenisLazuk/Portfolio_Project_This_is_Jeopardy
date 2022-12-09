@@ -17,7 +17,6 @@ Jupyter Notebook
 ### Libraries used:
 ```
 pandas
-numpy
 ```
 ### Dataframes used:
 ```
